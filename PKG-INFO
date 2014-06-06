@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: Interfaz
+Version: 1.0
+Summary: Interfaz sencilla de aplicaciones rapidas
+Home-page: http://www.centrux.org
+Author: Marcos Pablo Russo
+Author-email: mrusso@centrux.org
+License: GPL
+Download-URL: http://www.centrux.org/repositorio/python/interfaz-1.0.tar.bz2
+Description: Interfaz de acceso rapido a los programas
+Platform: i386
+Platform: AMD64
+Requires: gtk
+Requires: pygtk
